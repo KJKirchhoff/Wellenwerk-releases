@@ -1,0 +1,64 @@
+License Agreement for Wellenwerk 0.9.0 (test version)
+=========================================================
+
+Licensor: Kilian Kirchhoff ("Licensor").
+Version: November 2026.
+
+By installing, activating or using Wellenwerk (the "Software") you accept
+these terms. If you do not agree, do not use the Software and delete it.
+
+
+1. License
+- You receive a simple, non-transferable right to use the Software for your
+  own purposes, including your music production and commissioned work.
+- Use is limited to the number of computers your license covers (usually one
+  Mac).
+- The Software remains the property of the Licensor. You do not buy it; you
+  receive a right to use it.
+
+
+2. What is not allowed
+- Passing on, publishing, selling, renting or lending the Software, your
+  license key or your activation code.
+- Circumventing, removing or modifying the license check, the activation or
+  the demo restrictions ("cracking"), or helping others to do so.
+- Modifying the Software or building it into other products.
+Anything the law allows you to do regardless remains unaffected (for example
+Sections 69d and 69e of the German Copyright Act, UrhG).
+
+
+3. Third-party components
+The Software contains open-source components, including FFmpeg, LAME, libogg,
+libvorbis, Opus, libsoxr and libFLAC. They are governed exclusively by their
+own licenses (folder "Licenses" in the app, at
+Wellenwerk.app/Contents/Resources/Licenses). This agreement does not restrict
+your rights under those licenses. In particular, the components under the GNU
+LGPL may be modified, and examined for that purpose, under its terms.
+
+
+4. Test version, warranty and liability
+- The Software is provided free of charge as a test version. It may contain
+  errors. There is no claim to bug fixes, updates or further development.
+- Check important results (measurements, rendered files) yourself before you
+  publish or pass them on.
+- The Licensor is liable only for intent and gross negligence, and without
+  limitation for injury to life, body or health and under the German Product
+  Liability Act. If the Licensor fraudulently conceals a defect, he is liable
+  for the resulting damage.
+
+
+5. Data
+The Software does not send any data to the Licensor or to third parties. It
+works without internet. Wi-Fi access for phones and iPads stays within your
+local network and is only possible with the pairing code shown.
+
+
+6. Termination
+If you breach these terms, your right to use the Software ends and you must
+delete it. The Licensor may block misused licenses in future versions.
+
+
+7. Final provisions
+German law applies, excluding the UN Convention on Contracts for the
+International Sale of Goods (CISG). If any provision is invalid, the remaining
+provisions stay in effect.
