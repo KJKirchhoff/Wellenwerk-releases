@@ -6,7 +6,7 @@ Live loudness and spectrum analysis plus multi-format master rendering for macOS
 
 **[Wellenwerk 0.9.0 for Mac (DMG, 8 MB)](https://github.com/KJKirchhoff/Wellenwerk-releases/releases/download/v0.9.0/Wellenwerk-0.9.0.dmg)** — test version
 
-All versions and release notes: [Releases](https://github.com/KJKirchhoff/Wellenwerk-releases/releases)
+All versions and release notes: [Releases](https://github.com/KJKirchhoff/Wellenwerk-releases/releases) · **[Manual (PDF)](Wellenwerk%20Manual.pdf)**
 
 Requires a Mac with Apple silicon (M1 or newer) and macOS 14.6 or newer.
 
