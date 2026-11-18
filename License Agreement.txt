@@ -1,4 +1,4 @@
-License Agreement for Wellenwerk 0.9.0 (test version)
+License Agreement for Wellenwerk 0.10.0 (test version)
 =========================================================
 
 Licensor: Kilian Kirchhoff ("Licensor").
@@ -29,8 +29,8 @@ Sections 69d and 69e of the German Copyright Act, UrhG).
 
 3. Third-party components
 The Software contains open-source components, including FFmpeg, LAME, libogg,
-libvorbis, Opus, libsoxr and libFLAC. They are governed exclusively by their
-own licenses (folder "Licenses" in the app, at
+libvorbis, Opus, libsoxr, libFLAC and the fonts Montserrat and Karla. They are
+governed exclusively by their own licenses (folder "Licenses" in the app, at
 Wellenwerk.app/Contents/Resources/Licenses). This agreement does not restrict
 your rights under those licenses. In particular, the components under the GNU
 LGPL may be modified, and examined for that purpose, under its terms.
